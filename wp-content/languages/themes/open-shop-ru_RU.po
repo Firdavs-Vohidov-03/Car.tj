@@ -1,0 +1,1748 @@
+# Translation of Themes - Open Shop in Russian
+# This file is distributed under the same license as the Themes - Open Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-13 13:14:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Open Shop\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Open shop is a fast and responsive shopping WordPress theme with deeply integration of Woocommerce plugin. Best suited for furniture, grocery, clothing, electronic, food, home appliances site, gadget store, jewellery shop, fashion shop and decorative stores , you can create any type of ecommerce website by using it. It is also RTL ready. It contains multiple widgets options and layouts, Some highlighted features are Advance product search, Multiple Hero slider layouts, Product carousel , Product carousel with tabbed category filter, Woo Category slider, Product list layout, Top header with three layouts, Ribbon section, Call to Action section, About Us widget, Blog post widget slider, Footer bottom with three layouts. Open shop is best theme for your next website, check it demos: https://themehunk.com/wp-themes/open-shop/"
+msgstr "Open shop — это быстрая и адаптированная тема WordPress для покупок с глубокой интеграцией плагина Woocommerce. Лучше всего подходит для мебели, продуктовых магазинов, одежды, электроники, продуктов питания, сайтов бытовой техники, магазинов гаджетов, ювелирных магазинов, магазинов модной одежды и декоративных магазинов. С его помощью вы можете создать любой тип веб-сайта электронной коммерции. Он также готов к RTL. Он содержит несколько вариантов и макетов виджетов. Некоторые выделенные функции: расширенный поиск продуктов, макеты слайдеров с несколькими героями, карусель продуктов, карусель продуктов с фильтром категорий с вкладками, слайдер категорий Woo, макет списка продуктов, верхний заголовок с тремя макетами, раздел ленты, призыв к Раздел действий, виджет «О нас», слайдер виджета записи в блоге, нижняя часть нижнего колонтитула с тремя макетами. Open shop — лучшая тема для вашего следующего веб-сайта, посмотрите ее демоверсии: https://themehunk.com/wp-themes/open-shop/"
+
+#. Theme Name of the theme
+#: style.css lib/th-option/free-pro.php:7 lib/th-option/th-option.php:14
+#, gp-priority: high
+msgid "Open Shop"
+msgstr "Open Shop"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленькая"
+
+#: lib/th-option/th-option.php:146
+msgid "View Details"
+msgstr "Посмотреть детали"
+
+#: inc/woocommerce/woo-function.php:250
+msgid "Compare"
+msgstr "Сравнить"
+
+#: inc/header-function.php:618
+msgid "Add Cart"
+msgstr "Добавить в корзину"
+
+#: lib/th-option/sidebar.php:15
+msgid "Upgrading to Open Shop Premium you will unlock a dozen of unique features that will take your website to the next level. See in the  Comparison table for more details."
+msgstr "Перейдя на Open Shop Premium, вы откроете десятки уникальных возможностей, которые поднимут ваш сайт на новый уровень. Подробнее см. в сравнительной таблице."
+
+#: lib/th-option/sidebar.php:14
+msgid "Why Upgrade?"
+msgstr "Зачем обновлять?"
+
+#: lib/th-option/sidebar.php:8
+msgid "If you like the free version of this theme, you will LOVE the full version of Open Shop which includes numerous  Advanced features, Custom Sections, Section Ordering and more useful options to customize your website."
+msgstr "Если вам нравится бесплатная версия этой темы, вам понравится полная версия Open Shop, которая включает в себя многочисленные расширенные функции, настраиваемые разделы, порядок разделов и другие полезные параметры для настройки вашего веб-сайта."
+
+#: lib/th-option/sidebar.php:4
+msgid "Open Shop Premium Theme"
+msgstr "Тема Open Shop Premium"
+
+#: inc/footer-function.php:350
+msgid "Designed by"
+msgstr "Спроектировано"
+
+#: functions.php:135
+msgid "Th All In One Woo Cart"
+msgstr "Th: Все в одной корзине Woo"
+
+#: customizer/pro-button/class-customize.php:87
+msgid "View Docs"
+msgstr "Смотреть документацию"
+
+#: customizer/pro-button/class-customize.php:86
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: customizer/pro-button/class-customize.php:75
+msgid "Go Pro"
+msgstr "Получить Pro"
+
+#: customizer/pro-button/class-customize.php:74
+msgid "Unlock Pro Features"
+msgstr "Разблокируйте функции PRO"
+
+#: functions.php:141
+msgid "Th Product Compare"
+msgstr "Th: Сравнение товаров"
+
+#: lib/th-option/welcome.php:72
+msgid "Footer Section"
+msgstr "Раздел подвала"
+
+#: lib/th-option/welcome.php:34
+msgid "Go to Doc"
+msgstr "Перейти к документации"
+
+#: lib/th-option/welcome.php:11
+msgid "Now go to Settings > Reading > Your homepage displays > A static page (select below) and set that page as your homepage."
+msgstr "Теперь перейдите в Настройки> Чтение> На главной странице отображать> Статическая страница (выберите ниже) и установите эту страницу в качестве главной."
+
+#: lib/th-option/welcome.php:10
+msgid "Go to Wp Dashboard > Pages > Add New > Create a Page using “Home Page Template” available in Page attribute."
+msgstr "Перейдите в Консоль WP > Страницы > Добавить новую > Создать страницу используя Шаблон главной страницы, доступный в атрибуте страницы."
+
+#: lib/th-option/welcome.php:9
+msgid "To set up the HomePage in Open Shop theme, Just follow the below given Instructions."
+msgstr "Чтобы настроить главную страницу в теме Open Shop, просто следуйте приведенным ниже инструкциям."
+
+#: lib/th-option/welcome.php:5
+msgid "We highly Recommend to install Hunk Companion plugin to get all customization options in Open Shop theme. Also install recommended plugins available in recommended tab."
+msgstr "Мы настоятельно рекомендуем установить плагин Hunk Companion, чтобы получить все параметры настройки в теме Open Shop. Также установите рекомендуемые плагины, доступные на вкладке «Рекомендуемые»."
+
+#: lib/th-option/welcome.php:4
+msgid "1. Install Recommended Plugins"
+msgstr "1. Установите рекомендуемые плагины"
+
+#: lib/th-option/th-option.php:46
+msgid "Welcome To %1s Theme"
+msgstr "Добро пожаловать в тему %1s"
+
+#: lib/th-option/tab-html.php:37
+msgid "Get Child Theme"
+msgstr "Получить дочернюю тему"
+
+#: lib/th-option/tab-html.php:36
+msgid "Demo Import"
+msgstr "Импорт демо"
+
+#: lib/th-option/sidebar.php:38
+msgid "Have a question, we are happy to help! Get in touch with our support team."
+msgstr "Есть вопросы? Мы рады помочь! Свяжитесь с нашей командой поддержки."
+
+#: lib/th-option/get-child-theme.php:6
+msgid "That's why we recommended to use child theme to make your site  update proof."
+msgstr "Вот почему мы рекомендуем использовать дочернюю тему, чтобы сделать ваш сайт защищенным от обновлений."
+
+#: lib/th-option/get-child-theme.php:5
+msgid "Child theme inherit the style and functionality of parent theme, you can easily update the parent theme without losing its Customization."
+msgstr "Дочерняя тема наследует стиль и функциональность родительской темы, вы можете легко обновлять родительскую тему, не теряя ее настройки."
+
+#: lib/th-option/free-pro.php:269
+msgid "Pro Theme"
+msgstr "Платная тема"
+
+#: lib/th-option/free-pro.php:205
+msgid "Single Product Carousel"
+msgstr "Карусель отдельного товара"
+
+#: lib/th-option/child-notify.php:63 lib/th-option/get-child-theme.php:7
+msgid "Get Child Theme Now"
+msgstr "Получить дочернюю тему сейчас"
+
+#: lib/th-option/child-notify.php:62
+msgid "Child theme inherit the style and functionality of parent theme, you can easily update the parent theme without losing its Customization. That's why we highly recommend you to use Child theme to make your site update proof."
+msgstr "Дочерняя тема наследует стиль и функциональность родительской темы, вы можете легко обновлять родительскую тему, не теряя ее настройки. Вот почему мы настоятельно рекомендуем вам использовать дочернюю тему, чтобы защитить ваши настройки сайта от обновлений."
+
+#: functions.php:123
+msgid "Hunk Companion (Highly Recommended)"
+msgstr "Hunk Companion (Настоятельно Рекомендуется)"
+
+#: lib/th-option/welcome.php:16
+msgid "Home Page Activated"
+msgstr "Главная страница активирована"
+
+#: lib/th-option/sidebar.php:7
+msgid "Pre-made premium templates"
+msgstr "Готовые премиальные шаблоны"
+
+#: lib/th-option/need-help.php:25
+msgid "Create Child Theme"
+msgstr "Создать дочернюю тему"
+
+#: lib/th-option/welcome.php:69
+msgid "Shop Page Options"
+msgstr "Параметры страницы магазина"
+
+#: lib/th-option/welcome.php:66
+msgid "Header Options"
+msgstr "Параметры заголовка"
+
+#: lib/th-option/welcome.php:59
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: lib/th-option/welcome.php:55
+msgid "4. Customizer Links"
+msgstr "4. Настройте ссылки"
+
+#: lib/th-option/welcome.php:49
+msgid "Start Customize"
+msgstr "Приступить к настройке"
+
+#: lib/th-option/welcome.php:47
+msgid "Open Shop theme support live customizer for home page set up. Everything visible at home page can be changed through customize panel"
+msgstr "Тема Open Shop поддерживает настройку главной страницы в реальном времени. Все, что отображается на главной странице, можно изменить с помощью панели настройки"
+
+#: lib/th-option/welcome.php:46
+msgid "3. Customize Your Website"
+msgstr "3. Настройте свой сайт"
+
+#: lib/th-option/welcome.php:21
+msgid "Set Home Page"
+msgstr "Установить главную страницу"
+
+#: lib/th-option/welcome.php:8
+msgid "2. Setup Home Page"
+msgstr "2. Настройте главную страницу"
+
+#: lib/th-option/th-option.php:175
+msgid "Activated"
+msgstr "Активировано"
+
+#: lib/th-option/th-option.php:72
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: lib/th-option/tab-html.php:79
+msgid "Import Demo"
+msgstr "Импорт Демо"
+
+#: lib/th-option/tab-html.php:78
+msgid "You need to Install required plugins like- Hunk Companion, WooCommerce and One click demo import plugin. After installing required plugins import button will activate."
+msgstr "Вам необходимо установить необходимые плагины, такие как Hunk Companion, WooCommerce и плагин One click demo import. После установки необходимых плагинов активируется кнопка импорта."
+
+#: lib/th-option/tab-html.php:76
+msgid "Click Here To Import Demo Content"
+msgstr "Нажмите тут чтоб импортировать Демо содержимое"
+
+#: lib/th-option/tab-html.php:39
+msgid "Help"
+msgstr "Помощь"
+
+#: lib/th-option/tab-html.php:38
+msgid "Free Vs Pro"
+msgstr "Бесплатная или платная"
+
+#: lib/th-option/tab-html.php:35
+msgid "Recommended Plugin"
+msgstr "Рекомендуемый плагин"
+
+#: lib/th-option/tab-html.php:30
+msgid "FREE THEME"
+msgstr "БЕСПЛАТНАЯ ТЕМА"
+
+#: lib/th-option/sidebar.php:32
+msgid "Watch Videos"
+msgstr "Смотреть видео"
+
+#: lib/th-option/sidebar.php:31
+msgid "Want a guide? We have video tutorials to walk you through getting started."
+msgstr "Хотите руководство? У нас есть видеоуроки, которые помогут вам начать работу."
+
+#: lib/th-option/sidebar.php:30
+msgid "Video Tutorials"
+msgstr "Видеоуроки"
+
+#: lib/th-option/sidebar.php:24
+msgid "Submit review"
+msgstr "Отправить отзыв"
+
+#: lib/th-option/sidebar.php:23
+msgid "We would love to hear your feedback."
+msgstr "Мы хотели бы услышать ваши отзывы."
+
+#: lib/th-option/sidebar.php:22
+msgid "Leave us a review"
+msgstr "Оставьте нам отзыв"
+
+#: lib/th-option/need-help.php:34
+msgid " Go to docs"
+msgstr " Перейти к документации"
+
+#: lib/th-option/need-help.php:32
+msgid "Documentation"
+msgstr "Документация"
+
+#: lib/th-option/need-help.php:22
+msgid "Before modifying theme core files. You should create child theme to make those changes update proof. Please follow this link to create child theme."
+msgstr "Перед изменением основных файлов темы. Вы должны создать дочернюю тему, чтобы защитить изменения от обновления. Пожалуйста, перейдите по этой ссылке, чтобы создать дочернюю тему."
+
+#: lib/th-option/need-help.php:21
+msgid "Create a child theme"
+msgstr "Создать дочернюю тему"
+
+#: lib/th-option/need-help.php:5
+msgid "Need help ?"
+msgstr "Нужна помощь?"
+
+#: lib/th-option/need-help.php:3
+msgid "If you need any help you can contact to our support team"
+msgstr "Если вам нужна помощь, вы можете связаться с нашей службой поддержки"
+
+#: lib/th-option/need-help.php:2
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: lib/th-option/free-pro.php:273
+msgid "Get Open Shop Pro Now"
+msgstr "Получить Open Shop Pro сейчас"
+
+#: lib/th-option/free-pro.php:272
+msgid "Access to all Pro features"
+msgstr "Доступ ко всем функциям Pro"
+
+#: lib/th-option/free-pro.php:259
+msgid "Single Product Slider Widget"
+msgstr "Виджет слайдера отдельного товара"
+
+#: lib/th-option/free-pro.php:248
+msgid "Single Category Slider Widget"
+msgstr "Виджет слайдера отдельной категории"
+
+#: lib/th-option/free-pro.php:237
+msgid "Product Slider Widget"
+msgstr "Виджет слайдера товара"
+
+#: lib/th-option/free-pro.php:226
+msgid "Product List Slider Widget"
+msgstr "Виджет слайдера списка товара"
+
+#: lib/th-option/free-pro.php:185 lib/th-option/free-pro.php:216
+msgid "Brand Section"
+msgstr "Раздел бренда"
+
+#: lib/th-option/free-pro.php:174
+msgid "Big Featured Product Section"
+msgstr "Раздел Большой Рекомендуемый товар"
+
+#: lib/th-option/free-pro.php:152
+msgid "Exclude Category"
+msgstr "Исключить категорию"
+
+#: lib/th-option/free-pro.php:138
+msgid "(Priority)"
+msgstr "(Приоритет)"
+
+#: lib/th-option/free-pro.php:131 lib/th-option/sidebar.php:37
+msgid "Support"
+msgstr "Поддержка"
+
+#: lib/th-option/free-pro.php:115
+msgid "Product List Carousel Section"
+msgstr "Раздел Карусель списка товара"
+
+#: lib/th-option/free-pro.php:107
+msgid "(Three Layouts)"
+msgstr "(Три макета)"
+
+#: lib/th-option/free-pro.php:104
+msgid "(One Layouts)"
+msgstr "(Один макет)"
+
+#: lib/th-option/free-pro.php:100
+msgid "Woo Category Section"
+msgstr "Раздел Категории WooCommerce"
+
+#: lib/th-option/free-pro.php:87
+msgid "Tabbed Product Carousel Section"
+msgstr "Раздел товара с вкладками Карусель"
+
+#: lib/th-option/free-pro.php:75
+msgid "Ribbon Section"
+msgstr "Раздел ленты"
+
+#: lib/th-option/free-pro.php:68
+msgid "(Five Layouts)"
+msgstr "(Пять макетов)"
+
+#: lib/th-option/free-pro.php:67
+msgid "(Two Layouts)"
+msgstr "(Два макета)"
+
+#: lib/th-option/free-pro.php:64
+msgid "Top Slider Section"
+msgstr "Раздел верхнего слайдера"
+
+#: lib/th-option/free-pro.php:57
+msgid "(Advanced)"
+msgstr "(Расширенные)"
+
+#: lib/th-option/free-pro.php:56 lib/th-option/free-pro.php:135
+msgid "(Basic)"
+msgstr "(Основные)"
+
+#: lib/th-option/free-pro.php:53
+msgid "Full Color & Background Control"
+msgstr "Полный контроль цветов и фона"
+
+#: lib/th-option/free-pro.php:40
+msgid "Footer Layout"
+msgstr "Макет подвала"
+
+#: lib/th-option/free-pro.php:29
+msgid "(Multiple Possibilities)"
+msgstr "(Несколько возможностей)"
+
+#: lib/th-option/free-pro.php:28
+msgid "(One layout)"
+msgstr "(Один макет)"
+
+#: lib/th-option/free-pro.php:14
+msgid "Section Hide Option"
+msgstr "Опция скрыть раздел"
+
+#: lib/th-option/free-pro.php:8
+msgid "Open Shop Pro"
+msgstr "Open Shop Pro"
+
+#: lib/th-option/free-pro.php:6
+msgid "Features"
+msgstr "Особенности"
+
+#: functions.php:179
+msgid "ThemeHunk Megamenu – Menu builder"
+msgstr "ThemeHunk Megamenu – Menu builder"
+
+#: inc/header-function.php:578
+msgid "Please Install \"th advance product search\" Plugin"
+msgstr "Установите плагин \"th advance product search (расширенный поиск товаров)\""
+
+#: functions.php:129
+msgid "TH Advance Product Search"
+msgstr "TH Advance Product Search"
+
+#: functions.php:147
+msgid "TH Variation Swatches"
+msgstr "TH Variation Swatches"
+
+#: lib/th-option/need-help.php:33
+msgid "Our WordPress Theme is well documented, you can go with our documentation and learn to customize Open Shop."
+msgstr "Наша тема WordPress хорошо документирована, вы можете воспользоваться нашей документацией и научиться настраивать M Shop.Open Shop."
+
+#: inc/woocommerce/woo-function.php:265
+msgid "Added"
+msgstr "Добавлено"
+
+#: inc/woocommerce/woo-function.php:265
+msgid "Already"
+msgstr "Уже"
+
+#: inc/woocommerce/woo-function.php:265
+msgid "wishlist"
+msgstr "список пожеланий"
+
+#: functions.php:202
+msgid "Megamenu plugin from Themehunk."
+msgstr "Плагин Megamenu от ThemeHunk."
+
+#: customizer/register-panels-and-sections.php:112
+msgid "RTL"
+msgstr "RTL"
+
+#: inc/woocommerce/woo-function.php:22
+msgid "<span class=\"count-item\">%d <span class=\"item\">"
+msgid_plural "<span class=\"count-item\">%d <span class=\"item\">"
+msgstr[0] "<span class=\"count-item\">%d <span class=\"item\">"
+msgstr[1] "<span class=\"count-item\">%d <span class=\"item\">"
+msgstr[2] "<span class=\"count-item\">%d <span class=\"item\">"
+
+#: inc/woocommerce/woo-function.php:22 inc/woocommerce/woocommerce-ajax.php:26
+msgid "items"
+msgstr "items"
+
+#: inc/woocommerce/woo-function.php:22
+msgid "item"
+msgstr "item"
+
+#: inc/woocommerce/woocommerce-ajax.php:26
+msgid "<span class=\"count-item\">%d <span class=\"item\">item</span></span>"
+msgid_plural "<span class=\"count-item\">%d <span class=\"item\">"
+msgstr[0] "<span class=\"count-item\">%d <span class=\"item\">элемент</span></span>"
+msgstr[1] "<span class=\"count-item\">%d <span class=\"item\">элемента</span></span>"
+msgstr[2] "<span class=\"count-item\">%d <span class=\"item\">элементов</span></span>"
+
+#: customizer/section/woo/shop.php:15
+msgid "List"
+msgstr "Список"
+
+#: customizer/section/woo/shop.php:14
+msgid "Grid"
+msgstr "Сетка"
+
+#: customizer/section/woo/shop.php:10
+msgid "(Select layout to display products at shop page.)"
+msgstr "(Выберите макет для отображения товаров на странице магазина.)"
+
+#: customizer/section/woo/shop.php:9
+msgid "Display Product View"
+msgstr "Отображать просмотр товара"
+
+#: customizer/section/layout/social-icon/social-icon.php:130
+msgid "Skype URL"
+msgstr "URL-адрес Skype"
+
+#: functions.php:162
+msgid "WP Popup Builder – Popup Forms & Newsletter"
+msgstr "WP Popup Builder - всплывающие формы и информационная рассылка"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Нет соответствий для ваших условий поиска. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:29
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:46
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/author-bio.php:18
+msgid "Written by"
+msgstr "Написано"
+
+#: functions.php:323
+msgid "Footer Widget Area %d"
+msgstr "Область виджетов в подвале %d"
+
+#: functions.php:313
+msgid "Footer Below Third Widget"
+msgstr "Третий виджет ниже подвала"
+
+#: functions.php:304
+msgid "Footer Below Second Widget"
+msgstr "Второй виджет ниже подвала"
+
+#: functions.php:295
+msgid "Footer Below First Widget"
+msgstr "Первый виджет ниже подвала"
+
+#: functions.php:286
+msgid "Footer Top Third Widget"
+msgstr "3-й виджет верхней части подвала"
+
+#: functions.php:277
+msgid "Footer Top Second Widget"
+msgstr "2-й виджет верхней части подвала"
+
+#: functions.php:270 functions.php:279 functions.php:288 functions.php:297
+#: functions.php:306 functions.php:315
+msgid "Add widgets here to appear in top footer."
+msgstr "Добавьте виджеты сюда, чтоб они отображались в верхней части подвала."
+
+#: functions.php:268
+msgid "Footer Top First Widget"
+msgstr "1-й виджет верхней части подвала"
+
+#: functions.php:261
+msgid "Add widgets here to appear in main header."
+msgstr "Добавьте виджеты сюда, чтоб они появились в основном заголовке."
+
+#: functions.php:259
+msgid "Main Header Widget"
+msgstr "Виджет основного заголовка"
+
+#: functions.php:249
+msgid "Above Header Third Widget"
+msgstr "Третий виджет над заголовком"
+
+#: functions.php:240
+msgid "Above Header Second Widget"
+msgstr "Второй виджет над заголовком"
+
+#: functions.php:233 functions.php:242 functions.php:251
+msgid "Add widgets here to appear in top header."
+msgstr "Добавьте сюда виджеты, чтобы они отображались в верхнем заголовке."
+
+#: functions.php:231
+msgid "Above Header First Widget"
+msgstr "Первый виджет над заголовком"
+
+#: functions.php:224
+msgid "Add widgets here to appear in your primary sidebar."
+msgstr "Добавьте сюда виджеты, которые будут отображаться на основной боковой панели."
+
+#: functions.php:222
+msgid "Primary Sidebar"
+msgstr "Основная область виджетов"
+
+#: functions.php:152
+msgid "Lead Form Builder"
+msgstr "Lead Form Builder"
+
+#: functions.php:173
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: functions.php:191
+msgid "Hunk Companion"
+msgstr "Hunk Companion"
+
+#. Template Name of the theme
+msgid "Homepage Template"
+msgstr "Шаблон главной страницы"
+
+#: lib/breadcrumbs/breadcrumbs.php:792
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: lib/breadcrumbs/breadcrumbs.php:764 lib/breadcrumbs/breadcrumbs.php:1194
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumbs/breadcrumbs.php:763 lib/breadcrumbs/breadcrumbs.php:819
+#: lib/breadcrumbs/breadcrumbs.php:1190
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumbs/breadcrumbs.php:762 lib/breadcrumbs/breadcrumbs.php:791
+#: lib/breadcrumbs/breadcrumbs.php:818 lib/breadcrumbs/breadcrumbs.php:845
+#: lib/breadcrumbs/breadcrumbs.php:1186
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: lib/breadcrumbs/breadcrumbs.php:746
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: lib/breadcrumbs/breadcrumbs.php:729
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: lib/breadcrumbs/breadcrumbs.php:712
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:260
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:258
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:256
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: lib/breadcrumbs/breadcrumbs.php:254
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска для &#8220;%s&#8221;"
+
+#: lib/breadcrumbs/breadcrumbs.php:252
+msgid "Archives"
+msgstr "Архивы"
+
+#: lib/breadcrumbs/breadcrumbs.php:251
+msgid "404 Not Found"
+msgstr "Не найдено 404"
+
+#: lib/breadcrumbs/breadcrumbs.php:250
+msgid "Home"
+msgstr "Главная"
+
+#: lib/breadcrumbs/breadcrumbs.php:249
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Навигационные цепочки"
+
+#: lib/breadcrumbs/breadcrumbs.php:248
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: lib/page-meta-box/open-page-meta-box.php:34
+msgid "Disable Sidebar"
+msgstr "Отключить боковую панель"
+
+#: lib/page-meta-box/open-page-meta-box.php:25
+msgid "Dynamic Sidebar"
+msgstr "Динамическая область виджетов"
+
+#: lib/th-option/th-option.php:132
+msgid "Plugin Successfully Activated"
+msgstr "Плагин успешно активирован"
+
+#: lib/th-option/th-option.php:111
+msgid "No plugin specified"
+msgstr "Не указан плагин"
+
+#: lib/th-option/th-option.php:202
+msgid "Activate Now"
+msgstr "Активировать сейчас"
+
+#: lib/notification/customizer-notification/thsm-custom-section.php:56
+#: lib/th-option/th-option.php:180
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: lib/th-option/sidebar.php:39
+msgid "Submit a Ticket"
+msgstr "Создать тикет"
+
+#: lib/th-option/tab-html.php:34
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: lib/th-option/th-option.php:13
+msgid "Open Shop Options"
+msgstr "Параметры Open Shop"
+
+#: inc/woocommerce/woo-function.php:400
+msgid "No categories"
+msgstr "Нет категорий"
+
+#: inc/woocommerce/woo-function.php:22
+msgid "View your shopping cart"
+msgstr "Просмотреть товары в корзине"
+
+#: inc/woocommerce/woo-core.php:440 inc/woocommerce/woo-core.php:444
+msgid "List View"
+msgstr "В виде списка"
+
+#: inc/woocommerce/woo-core.php:438 inc/woocommerce/woo-core.php:442
+msgid "Grid View"
+msgstr "В виде сетки"
+
+#: inc/woocommerce/woo-core.php:283
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+#: inc/woocommerce/woo-core.php:209
+msgid "No more products to show."
+msgstr "Больше нет товаров для показа."
+
+#: inc/woocommerce/woo-core.php:96
+msgid "This sidebar will be used on Single Product page."
+msgstr "Эта область виджетов используется на странице отдельного товара."
+
+#: inc/woocommerce/woo-core.php:94
+msgid "Product Sidebar"
+msgstr "Область виджетов товара"
+
+#: inc/woocommerce/woo-core.php:87
+msgid "Add widgets here to appear in your WooCommerce Sidebar."
+msgstr "Добавьте сюда виджеты, которые будут отображаться на боковой панели WooCommerce."
+
+#: inc/woocommerce/woo-core.php:85
+msgid "WooCommerce Sidebar"
+msgstr "Область виджетов WooCommerce"
+
+#: inc/footer-function.php:351
+msgid "https://themehunk.com/"
+msgstr "https://themehunk.com/"
+
+#. translators: Copyright date format, see https://www.php.net/date
+#: inc/footer-function.php:345
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/footer-function.php:244 inc/footer-function.php:277
+#: inc/footer-function.php:310
+msgid "Assign footer menu"
+msgstr "Назначить меню подвала"
+
+#: inc/admin-function.php:261
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/admin-function.php:55
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: inc/admin-function.php:54
+msgid "Sticky"
+msgstr "Прикрепить"
+
+#: inc/admin-function.php:53
+msgid "Main"
+msgstr "Основное"
+
+#: inc/admin-function.php:52
+msgid "Header Above Menu"
+msgstr "Заголовок над меню"
+
+#: inc/blog-function.php:86
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: inc/header-function.php:354
+msgid "Email :"
+msgstr "Email :"
+
+#: inc/footer-function.php:67 inc/footer-function.php:77
+#: inc/footer-function.php:82 inc/footer-function.php:93
+#: inc/footer-function.php:98 inc/footer-function.php:103
+#: inc/footer-function.php:117 inc/footer-function.php:122
+#: inc/footer-function.php:127 inc/footer-function.php:136
+#: inc/footer-function.php:151 inc/footer-function.php:156
+#: inc/footer-function.php:161 inc/footer-function.php:175
+#: inc/footer-function.php:180 inc/footer-function.php:185
+#: inc/footer-function.php:197 inc/footer-function.php:202
+#: inc/footer-function.php:210 inc/footer-function.php:215
+#: inc/footer-function.php:251 inc/footer-function.php:284
+#: inc/footer-function.php:317 inc/header-function.php:98
+#: inc/header-function.php:148 inc/header-function.php:198
+msgid "Add Widget"
+msgstr "Добавить виджет"
+
+#: inc/header-function.php:91 inc/header-function.php:140
+#: inc/header-function.php:190
+msgid "Assign Above header menu"
+msgstr "Назначить меню над заголовком"
+
+#: customizer/custom-customizer.php:528
+msgid "Doc"
+msgstr "Документ"
+
+#: customizer/extend-customizer/class-open-shop-wp-customize-section.php:52
+msgid "Customizing"
+msgstr "Настройка"
+
+#: customizer/extend-customizer/class-open-shop-wp-customize-section.php:50
+msgid "Customizing &#9656; %s"
+msgstr "Настройка &#9656; %s"
+
+#: customizer/section/woo/product.php:31
+msgid "Enable Quick View."
+msgstr "Включить быстрый просмотр."
+
+#: customizer/section/woo/product.php:20
+msgid "Swap (Pro)"
+msgstr "Поменять местами (Pro)"
+
+#: customizer/section/woo/product.php:19
+msgid "Zoom"
+msgstr "Увеличение"
+
+#: customizer/section/woo/product.php:14
+msgid "Product Image Hover Style"
+msgstr "Стиль изображение товара при наведении"
+
+#: customizer/section/woo/single-product.php:99
+msgid "Display Related product"
+msgstr "Отображать сопутствующие товары"
+
+#: customizer/section/woo/single-product.php:91
+msgid "Related Product"
+msgstr "Сопутствующий товар"
+
+#: customizer/section/woo/cart.php:55
+#: customizer/section/woo/single-product.php:68
+#: customizer/section/woo/single-product.php:141
+msgid "Number Of Product To Show"
+msgstr "Количество товаров для отображения"
+
+#: customizer/section/woo/cart.php:33
+#: customizer/section/woo/single-product.php:44
+#: customizer/section/woo/single-product.php:117
+msgid "Number Of Column To Show"
+msgstr "Количество столбцов для отображения"
+
+#: customizer/section/woo/single-product.php:28
+msgid "Display up sell product"
+msgstr "Отображать товар для доп. продаж"
+
+#: customizer/section/woo/single-product.php:20
+msgid "Up Sell Product"
+msgstr "Товар для доп. продаж"
+
+#: customizer/section/woo/checkout.php:38
+msgid "To know more go with this <a target=\"_blank\" href=\"%s\">Doc</a> !"
+msgstr "Чтобы узнать больше, ознакомьтесь с этим <a target=\"_blank\" href=\"%s\">Документом</a>!"
+
+#: customizer/section/woo/checkout.php:22
+msgid "Enable Distraction Free Checkout."
+msgstr "Включите оформление заказа без отвлекающих факторов."
+
+#: customizer/section/layout/header/set-identity.php:75
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: customizer/section/layout/header/set-identity.php:55
+msgid "Display Tagline"
+msgstr "Отображать краткое описание"
+
+#: customizer/section/layout/header/set-identity.php:40
+msgid "Display Site Title"
+msgstr "Отображать название сайта"
+
+#: customizer/section/layout/header/set-identity.php:27
+msgid "Retina Logo"
+msgstr "Логотип Retina"
+
+#: customizer/section/layout/header/main-header.php:192
+msgid "Mobile Menu"
+msgstr "Меню для мобильных"
+
+#: customizer/section/layout/header/main-header.php:163
+msgid "Email"
+msgstr "Email"
+
+#: customizer/section/layout/header/main-header.php:157
+#: inc/header-function.php:354
+msgid "Info@gmail.com"
+msgstr "Info@gmail.com"
+
+#: customizer/section/layout/header/main-header.php:152
+msgid "Call To Number"
+msgstr "Звонок на номер"
+
+#: customizer/section/layout/header/main-header.php:146
+#: inc/header-function.php:353
+msgid "+1800090098"
+msgstr "+1800090098"
+
+#: customizer/section/layout/header/main-header.php:140
+msgid "Call To Text"
+msgstr "Текст вызова"
+
+#: customizer/section/layout/header/main-header.php:134
+#: inc/header-function.php:353
+msgid "Call To"
+msgstr "Позвонить"
+
+#: customizer/section/layout/header/main-header.php:126
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: customizer/section/layout/header/main-header.php:120
+msgid "#"
+msgstr "#"
+
+#: customizer/section/layout/header/main-header.php:108
+#: customizer/section/layout/header/main-header.php:114
+#: inc/header-function.php:345
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: customizer/section/layout/header/above-header.php:67
+#: customizer/section/layout/header/above-header.php:152
+#: customizer/section/layout/header/main-header.php:101
+msgid "Widget (Pro)"
+msgstr "Виджет (Pro)"
+
+#: customizer/section/layout/header/main-header.php:100
+msgid "Button (Pro)"
+msgstr "Кнопка (Pro)"
+
+#: customizer/section/layout/header/main-header.php:99
+msgid "Call-To"
+msgstr "Позвонить"
+
+#: customizer/section/layout/header/main-header.php:83
+#: customizer/section/layout/header/main-header.php:198
+msgid "Right"
+msgstr "Справа"
+
+#: customizer/section/layout/header/main-header.php:82
+#: customizer/section/layout/header/main-header.php:197
+msgid "center"
+msgstr "по центру"
+
+#: customizer/section/layout/header/main-header.php:81
+#: customizer/section/layout/header/main-header.php:196
+msgid "Left"
+msgstr "Слева"
+
+#: customizer/section/layout/header/main-header.php:77
+msgid "Menu Alignment"
+msgstr "Выравнивание меню"
+
+#: customizer/section/layout/header/main-header.php:19
+#: lib/th-option/free-pro.php:25
+msgid "Header Layout"
+msgstr "Макет заголовка"
+
+#: customizer/section/layout/header/loader.php:39
+msgid "(You can also use GIF image.)"
+msgstr "(Вы также можете использовать изображение в формате GIF.)"
+
+#: customizer/section/layout/header/loader.php:38
+msgid "Pre Loader Image"
+msgstr "Изображение анимации загрузки"
+
+#: customizer/section/layout/header/loader.php:23
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: customizer/section/layout/header/loader.php:8
+msgid "Enable Loader"
+msgstr "Включить анимацию загрузки"
+
+#: customizer/section/layout/footer/above-footer.php:331
+#: customizer/section/layout/header/above-header.php:341
+msgid "Bottom Border"
+msgstr "Нижняя рамка"
+
+#: customizer/section/layout/footer/above-footer.php:354
+#: customizer/section/layout/footer/bottom-footer - Copy.php:355
+#: customizer/section/layout/header/above-header.php:364
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: customizer/section/layout/footer/bottom-footer - Copy.php:332
+msgid "Top Border"
+msgstr "Верхняя граница"
+
+#: customizer/section/layout/footer/above-footer.php:305
+#: customizer/section/layout/footer/bottom-footer - Copy.php:306
+#: customizer/section/layout/header/above-header.php:319
+msgid "Height"
+msgstr "Высота"
+
+#: customizer/section/layout/footer/above-footer.php:216
+#: customizer/section/layout/footer/bottom-footer - Copy.php:216
+#: customizer/section/layout/header/above-header.php:230
+msgid "Column 3"
+msgstr "Столбец 3"
+
+#: customizer/section/layout/footer/above-footer.php:60
+#: customizer/section/layout/footer/above-footer.php:146
+#: customizer/section/layout/footer/above-footer.php:229
+#: customizer/section/layout/footer/bottom-footer - Copy.php:146
+#: customizer/section/layout/footer/bottom-footer - Copy.php:230
+#: customizer/section/layout/header/above-header.php:74
+#: customizer/section/layout/header/above-header.php:159
+#: customizer/section/layout/header/above-header.php:245
+#: inc/footer-function.php:236 inc/footer-function.php:270
+#: inc/footer-function.php:303 inc/header-function.php:68
+#: inc/header-function.php:117 inc/header-function.php:167
+msgid "Add your content here"
+msgstr "Добавьте своё содержимое сюда"
+
+#: customizer/section/layout/footer/above-footer.php:133
+#: customizer/section/layout/footer/bottom-footer - Copy.php:132
+#: customizer/section/layout/header/above-header.php:145
+msgid "Column 2"
+msgstr "Столбец 2"
+
+#: customizer/section/layout/footer/above-footer.php:117
+#: customizer/section/layout/footer/above-footer.php:202
+#: customizer/section/layout/footer/above-footer.php:251
+#: customizer/section/layout/footer/bottom-footer - Copy.php:116
+#: customizer/section/layout/footer/bottom-footer - Copy.php:202
+#: customizer/section/layout/footer/bottom-footer - Copy.php:252
+#: customizer/section/layout/header/above-header.php:131
+#: customizer/section/layout/header/above-header.php:216
+#: customizer/section/layout/header/above-header.php:268
+msgid "Go To Social Media"
+msgstr "Перейти в соцсети"
+
+#: customizer/section/layout/footer/above-footer.php:100
+#: customizer/section/layout/footer/above-footer.php:185
+#: customizer/section/layout/footer/above-footer.php:285
+#: customizer/section/layout/footer/bottom-footer - Copy.php:99
+#: customizer/section/layout/footer/bottom-footer - Copy.php:185
+#: customizer/section/layout/footer/bottom-footer - Copy.php:286
+#: customizer/section/layout/header/above-header.php:114
+#: customizer/section/layout/header/above-header.php:182
+#: customizer/section/layout/header/above-header.php:285
+msgid "Go To Menu"
+msgstr "Перейти в меню"
+
+#: customizer/section/layout/footer/above-footer.php:83
+#: customizer/section/layout/footer/above-footer.php:168
+#: customizer/section/layout/footer/above-footer.php:268
+#: customizer/section/layout/footer/bottom-footer - Copy.php:82
+#: customizer/section/layout/footer/bottom-footer - Copy.php:168
+#: customizer/section/layout/footer/bottom-footer - Copy.php:269
+#: customizer/section/layout/footer/widget-footer.php:64
+#: customizer/section/layout/header/above-header.php:97
+#: customizer/section/layout/header/above-header.php:199
+#: customizer/section/layout/header/above-header.php:301
+#: customizer/section/layout/header/main-header.php:178
+msgid "Go To Widget"
+msgstr "Перейти к виджету"
+
+#: customizer/section/layout/footer/above-footer.php:55
+#: customizer/section/layout/footer/above-footer.php:141
+#: customizer/section/layout/footer/above-footer.php:224
+#: customizer/section/layout/footer/bottom-footer - Copy.php:54
+#: customizer/section/layout/footer/bottom-footer - Copy.php:141
+#: customizer/section/layout/footer/bottom-footer - Copy.php:225
+#: customizer/section/layout/header/above-header.php:238
+msgid "Social Media"
+msgstr "Соцсети"
+
+#: customizer/section/layout/footer/above-footer.php:54
+#: customizer/section/layout/footer/above-footer.php:140
+#: customizer/section/layout/footer/above-footer.php:223
+#: customizer/section/layout/footer/bottom-footer - Copy.php:53
+#: customizer/section/layout/footer/bottom-footer - Copy.php:140
+#: customizer/section/layout/footer/bottom-footer - Copy.php:224
+#: customizer/section/layout/header/above-header.php:237
+msgid "Widget"
+msgstr "Виджет"
+
+#: customizer/section/layout/footer/above-footer.php:53
+#: customizer/section/layout/footer/above-footer.php:139
+#: customizer/section/layout/footer/above-footer.php:222
+#: customizer/section/layout/footer/bottom-footer - Copy.php:52
+#: customizer/section/layout/footer/bottom-footer - Copy.php:138
+#: customizer/section/layout/footer/bottom-footer - Copy.php:222
+#: customizer/section/layout/header/above-header.php:236
+msgid "Menu"
+msgstr "Меню"
+
+#: customizer/section/layout/footer/above-footer.php:52
+#: customizer/section/layout/footer/above-footer.php:67
+#: customizer/section/layout/footer/above-footer.php:138
+#: customizer/section/layout/footer/above-footer.php:152
+#: customizer/section/layout/footer/above-footer.php:221
+#: customizer/section/layout/footer/above-footer.php:235
+#: customizer/section/layout/footer/bottom-footer - Copy.php:51
+#: customizer/section/layout/footer/bottom-footer - Copy.php:66
+#: customizer/section/layout/footer/bottom-footer - Copy.php:137
+#: customizer/section/layout/footer/bottom-footer - Copy.php:152
+#: customizer/section/layout/footer/bottom-footer - Copy.php:221
+#: customizer/section/layout/footer/bottom-footer - Copy.php:236
+#: customizer/section/layout/header/above-header.php:65
+#: customizer/section/layout/header/above-header.php:81
+#: customizer/section/layout/header/above-header.php:150
+#: customizer/section/layout/header/above-header.php:166
+#: customizer/section/layout/header/above-header.php:235
+#: customizer/section/layout/header/above-header.php:252
+msgid "Text"
+msgstr "Текст"
+
+#: customizer/section/layout/footer/above-footer.php:51
+#: customizer/section/layout/footer/above-footer.php:137
+#: customizer/section/layout/footer/above-footer.php:220
+#: customizer/section/layout/footer/bottom-footer - Copy.php:50
+#: customizer/section/layout/footer/bottom-footer - Copy.php:136
+#: customizer/section/layout/footer/bottom-footer - Copy.php:220
+#: customizer/section/layout/header/above-header.php:234
+#: customizer/section/layout/header/main-header.php:98
+#: customizer/section/woo/product.php:18
+msgid "None"
+msgstr "Нет"
+
+#: customizer/section/layout/footer/above-footer.php:47
+#: customizer/section/layout/footer/bottom-footer - Copy.php:46
+#: customizer/section/layout/header/above-header.php:60
+#: customizer/section/layout/header/main-header.php:94
+msgid "Column 1"
+msgstr "Столбец 1"
+
+#: customizer/section/layout/social-icon/social-icon.php:117
+msgid "Dribble URL"
+msgstr "URL-адрес Dribble"
+
+#: customizer/section/layout/social-icon/social-icon.php:105
+msgid "Stumbleupon URL"
+msgstr "URL-адрес StumbleUpon"
+
+#: customizer/section/layout/social-icon/social-icon.php:93
+msgid "Youtube URL"
+msgstr "URL-адрес YouTube"
+
+#: customizer/section/layout/social-icon/social-icon.php:81
+msgid "Tumblr URL"
+msgstr "URL-адрес Tumblr"
+
+#: customizer/section/layout/social-icon/social-icon.php:69
+msgid "Instagram URL"
+msgstr "URL-адрес Instagram"
+
+#: customizer/section/layout/social-icon/social-icon.php:57
+msgid "Twitter URL"
+msgstr "URL-адрес Twitter"
+
+#: customizer/section/layout/social-icon/social-icon.php:44
+msgid "Pinterest URL"
+msgstr "URL-адрес Pinterest"
+
+#: customizer/section/layout/social-icon/social-icon.php:32
+msgid "LinkedIn URL"
+msgstr "URL-адрес LinkedIn"
+
+#: customizer/section/layout/social-icon/social-icon.php:19
+msgid "Facebook URL"
+msgstr "URL-адрес Facebook"
+
+#: customizer/section/layout/social-icon/social-icon.php:8
+msgid "Show Original Color"
+msgstr "Показать исходный цвет"
+
+#: customizer/section/layout/blog/blog.php:76
+#: customizer/section/woo/shop.php:35
+msgid "Infinite Scroll (Pro)"
+msgstr "Бесконечная прокрутка (Pro)"
+
+#: customizer/section/layout/blog/blog.php:75
+#: customizer/section/woo/shop.php:34
+msgid "Load More (Pro)"
+msgstr "Загрузить еще (Pro)"
+
+#: customizer/section/layout/blog/blog.php:74
+#: customizer/section/woo/shop.php:33
+msgid "Numbered"
+msgstr "Нумерация"
+
+#: customizer/section/layout/blog/blog.php:70
+#: customizer/section/woo/shop.php:29
+msgid "Post Pagination"
+msgstr "Пагинация записи"
+
+#: customizer/section/layout/blog/blog.php:19
+msgid "Excerpt Content"
+msgstr "Содержимое отрывка"
+
+#: customizer/section/layout/blog/blog.php:14
+msgid "Blog Post Content"
+msgstr "Содержимое записи блога"
+
+#: customizer/section/color/global-color.php:94
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: customizer/section/color/global-color.php:79
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: customizer/section/color/global-color.php:63
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: customizer/section/color/global-color.php:48
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: customizer/section/color/global-color.php:33
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: customizer/section/color/global-color.php:18
+msgid "Dark"
+msgstr "Темная"
+
+#: customizer/section/color/global-color.php:17
+msgid "Light"
+msgstr "Светлая"
+
+#: customizer/section/color/global-color.php:13
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: customizer/background/class-open-shop-background-image-control.php:300
+msgid "Scroll"
+msgstr "Прокручивать"
+
+#: customizer/background/class-open-shop-background-image-control.php:299
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: customizer/background/class-open-shop-background-image-control.php:296
+msgid "Center Bottom"
+msgstr "По центру внизу"
+
+#: customizer/background/class-open-shop-background-image-control.php:295
+msgid "Center Center"
+msgstr "В самом центре"
+
+#: customizer/background/class-open-shop-background-image-control.php:294
+msgid "Center Top"
+msgstr "По центру вверху"
+
+#: customizer/background/class-open-shop-background-image-control.php:293
+msgid "Right Bottom"
+msgstr "Справа внизу"
+
+#: customizer/background/class-open-shop-background-image-control.php:292
+msgid "Right Center"
+msgstr "Справа по центру"
+
+#: customizer/background/class-open-shop-background-image-control.php:291
+msgid "Right Top"
+msgstr "Справа вверху"
+
+#: customizer/background/class-open-shop-background-image-control.php:290
+msgid "Left Bottom"
+msgstr "Слева внизу"
+
+#: customizer/background/class-open-shop-background-image-control.php:289
+msgid "Left Center"
+msgstr "Слева по центру"
+
+#: customizer/background/class-open-shop-background-image-control.php:288
+msgid "Left Top"
+msgstr "Слева вверху"
+
+#: customizer/background/class-open-shop-background-image-control.php:285
+msgid "Contain"
+msgstr "Поместить"
+
+#: customizer/background/class-open-shop-background-image-control.php:284
+msgid "Cover"
+msgstr "Перекрыть"
+
+#: customizer/background/class-open-shop-background-image-control.php:280
+msgid "Tile Vertically"
+msgstr "Плитка вертикально"
+
+#: customizer/background/class-open-shop-background-image-control.php:279
+msgid "Tile Horizontally"
+msgstr "Плитка горизонтально"
+
+#: customizer/background/class-open-shop-background-image-control.php:278
+msgid "Tile"
+msgstr "Плитка"
+
+#: customizer/background/class-open-shop-background-image-control.php:277
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: customizer/background/class-open-shop-background-image-control.php:260
+msgid "Background Attachment"
+msgstr "Привязка фона"
+
+#: customizer/background/class-open-shop-background-image-control.php:259
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: customizer/background/class-open-shop-background-image-control.php:258
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: customizer/background/class-open-shop-background-image-control.php:257
+msgid "Background Repeat"
+msgstr "Повторение фона"
+
+#: customizer/background/class-open-shop-background-image-control.php:242
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#: customizer/background/class-open-shop-background-image-control.php:240
+msgid "No image selected"
+msgstr "Изображения не выбрано"
+
+#: customizer/background/class-open-shop-background-image-control.php:239
+#: customizer/background/class-open-shop-background-image-control.php:283
+msgid "Default"
+msgstr "По умолчанию"
+
+#: customizer/background/class-open-shop-background-image-control.php:238
+msgid "Remove"
+msgstr "Удалить"
+
+#: customizer/background/class-open-shop-background-image-control.php:237
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: customizer/background/class-open-shop-background-image-control.php:236
+#: customizer/background/class-open-shop-background-image-control.php:241
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: customizer/register-panels-and-sections.php:693
+msgid "About Us"
+msgstr "О нас"
+
+#: customizer/register-panels-and-sections.php:686
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: customizer/register-panels-and-sections.php:679
+msgid "Faq"
+msgstr "FAQ"
+
+#: customizer/register-panels-and-sections.php:675
+msgid "Inner Page Template "
+msgstr "Шаблон внутренней страницы "
+
+#: customizer/register-panels-and-sections.php:665
+msgid "Content"
+msgstr "Содержимое"
+
+#: customizer/register-panels-and-sections.php:658
+msgid "Title"
+msgstr "Заголовок"
+
+#: customizer/register-panels-and-sections.php:652
+msgid "Base Typography"
+msgstr "Базовая типографика"
+
+#: customizer/register-panels-and-sections.php:649
+msgid "Typography"
+msgstr "Типографика"
+
+#: customizer/register-panels-and-sections.php:638
+msgid "Shop Page"
+msgstr "Страница магазина"
+
+#: customizer/register-panels-and-sections.php:631
+msgid "Cart Page"
+msgstr "Страница корзины"
+
+#: customizer/register-panels-and-sections.php:617
+msgid "Product Style"
+msgstr "Стиль товара"
+
+#: customizer/register-panels-and-sections.php:608
+msgid "Content Color"
+msgstr "Цвет содержимого"
+
+#: customizer/register-panels-and-sections.php:596
+msgid "Custom Section Four"
+msgstr "Пользовательский 4-й раздел"
+
+#: customizer/register-panels-and-sections.php:587
+msgid "Custom Section Three"
+msgstr "Пользовательский 3-й раздел"
+
+#: customizer/register-panels-and-sections.php:579
+msgid "Custom Section Two"
+msgstr "Пользовательский 2-й раздел"
+
+#: customizer/register-panels-and-sections.php:571
+msgid "Custom Section One"
+msgstr "Пользовательский раздел 1"
+
+#: customizer/register-panels-and-sections.php:474
+msgid "Frontpage"
+msgstr "Главная страница"
+
+#: customizer/register-panels-and-sections.php:463
+#: customizer/register-panels-and-sections.php:624
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: customizer/register-panels-and-sections.php:455
+msgid "Sale Badge"
+msgstr "Бейдж распродажи"
+
+#: customizer/register-panels-and-sections.php:446
+msgid "Product"
+msgstr "Товар"
+
+#: customizer/register-panels-and-sections.php:439 functions.php:167
+#: lib/th-option/welcome.php:61
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: customizer/register-panels-and-sections.php:428
+msgid "Bottom Footer"
+msgstr "Нижняя часть подвала"
+
+#: customizer/register-panels-and-sections.php:420
+msgid "Footer Widget"
+msgstr "Виджет подвала"
+
+#: customizer/register-panels-and-sections.php:386
+msgid "Shop Icon"
+msgstr "Значок магазина"
+
+#: customizer/register-panels-and-sections.php:370
+#: customizer/section/layout/header/main-header.php:42
+msgid "Category"
+msgstr "Рубрика"
+
+#: customizer/register-panels-and-sections.php:361
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: customizer/register-panels-and-sections.php:344
+#: lib/th-option/free-pro.php:163
+msgid "Off Canvas Sidebar"
+msgstr "Боковая панель Off Canvas"
+
+#: customizer/register-panels-and-sections.php:336
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: customizer/register-panels-and-sections.php:327
+msgid "Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: customizer/register-panels-and-sections.php:299 lib/th-option/welcome.php:60
+msgid "Global Colors"
+msgstr "Глобальные цвета"
+
+#: customizer/register-panels-and-sections.php:295
+msgid "Total Color & BG Options"
+msgstr "Все варианты цвета и фона"
+
+#: customizer/register-panels-and-sections.php:285
+msgid "Section Ordering"
+msgstr "Порядок разделов"
+
+#: customizer/register-panels-and-sections.php:277
+msgid "Fourth Custom Section"
+msgstr "4-й пользовательский раздел"
+
+#: customizer/register-panels-and-sections.php:270
+msgid "Third Custom Section"
+msgstr "3-й пользовательский раздел"
+
+#: customizer/register-panels-and-sections.php:263
+msgid "Second Custom Section"
+msgstr "2-й пользовательский раздел"
+
+#: customizer/register-panels-and-sections.php:256
+msgid "First Custom Section"
+msgstr "1-й пользовательский раздел"
+
+#: customizer/register-panels-and-sections.php:247
+#: customizer/register-panels-and-sections.php:545
+msgid "Brand"
+msgstr "Бренд"
+
+#: customizer/register-panels-and-sections.php:240
+#: customizer/register-panels-and-sections.php:529
+msgid "Banner"
+msgstr "Баннер"
+
+#: customizer/register-panels-and-sections.php:232
+#: customizer/register-panels-and-sections.php:521
+msgid "Tabbed Product List Carousel"
+msgstr "Карусель списка товаров со вкладками"
+
+#: customizer/register-panels-and-sections.php:226
+#: customizer/register-panels-and-sections.php:561
+msgid "Big Featured Product"
+msgstr "Большой Рекомендуемый товар"
+
+#: customizer/register-panels-and-sections.php:219
+#: customizer/register-panels-and-sections.php:513
+msgid "Product List Carousel"
+msgstr "Карусель списка товаров"
+
+#: customizer/register-panels-and-sections.php:212
+#: customizer/register-panels-and-sections.php:537
+msgid "Ribbon"
+msgstr "Лента"
+
+#: customizer/register-panels-and-sections.php:204
+#: customizer/register-panels-and-sections.php:497
+msgid "Product Carousel"
+msgstr "Карусель товаров"
+
+#: customizer/register-panels-and-sections.php:197
+#: customizer/register-panels-and-sections.php:489
+msgid "Woo Category"
+msgstr "Категория WooCommerce"
+
+#: customizer/register-panels-and-sections.php:190
+#: customizer/register-panels-and-sections.php:505
+msgid "Tabbed Product Carousel"
+msgstr "Карусель похожих товаров"
+
+#: customizer/register-panels-and-sections.php:183
+#: customizer/register-panels-and-sections.php:553
+msgid "Highlight"
+msgstr "Выделение"
+
+#: customizer/register-panels-and-sections.php:177
+#: customizer/register-panels-and-sections.php:481
+msgid "Top Slider"
+msgstr "Верхний слайдер"
+
+#: customizer/register-panels-and-sections.php:173
+msgid "Frontpage Sections"
+msgstr "Разделы главной страницы"
+
+#: customizer/register-panels-and-sections.php:164
+msgid "Social Icon"
+msgstr "Значок соцсетей"
+
+#: customizer/register-panels-and-sections.php:157
+msgid "Preloader"
+msgstr "Анимация загрузки"
+
+#: customizer/register-panels-and-sections.php:146
+msgid "Below Footer"
+msgstr "Ниже подвала"
+
+#: customizer/register-panels-and-sections.php:138
+msgid "Widget Footer"
+msgstr "Виджет подвала"
+
+#: customizer/register-panels-and-sections.php:130
+#: customizer/register-panels-and-sections.php:412
+msgid "Above Footer"
+msgstr "Выше подвала"
+
+#: customizer/register-panels-and-sections.php:104
+msgid "Enable"
+msgstr "Включить"
+
+#: customizer/register-panels-and-sections.php:94
+msgid "Move To Top"
+msgstr "Перейти к началу"
+
+#: customizer/register-panels-and-sections.php:87
+#: customizer/register-panels-and-sections.php:396
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: customizer/register-panels-and-sections.php:80
+#: customizer/register-panels-and-sections.php:405
+msgid "Footer"
+msgstr "Подвал"
+
+#: customizer/register-panels-and-sections.php:73 inc/admin-function.php:268
+msgid "Blog"
+msgstr "Блог"
+
+#: customizer/register-panels-and-sections.php:64
+#: customizer/register-panels-and-sections.php:319
+msgid "Main Header"
+msgstr "Главный заголовок"
+
+#: customizer/register-panels-and-sections.php:56
+#: customizer/register-panels-and-sections.php:311
+msgid "Above Header"
+msgstr "Выше заголовка"
+
+#: customizer/register-panels-and-sections.php:48
+#: customizer/register-panels-and-sections.php:305
+#: customizer/register-panels-and-sections.php:352
+msgid "Header"
+msgstr "Заголовок"
+
+#: customizer/register-panels-and-sections.php:43
+#: customizer/section/layout/footer/above-footer.php:17
+#: customizer/section/layout/footer/bottom-footer - Copy.php:16
+#: customizer/section/layout/footer/widget-footer.php:16
+#: customizer/section/layout/header/above-header.php:32
+msgid "Layout"
+msgstr "Макет"
+
+#: customizer/register-panels-and-sections.php:32
+msgid "Background"
+msgstr "Фон"
+
+#: customizer/register-panels-and-sections.php:25
+#: customizer/section/color/global-color.php:126
+#: customizer/section/layout/blog/blog.php:91
+#: customizer/section/layout/footer/above-footer.php:371
+#: customizer/section/layout/footer/bottom-footer - Copy.php:373
+#: customizer/section/layout/footer/widget-footer.php:81
+#: customizer/section/layout/header/above-header.php:380
+#: customizer/section/layout/header/loader.php:55
+#: customizer/section/layout/header/main-header.php:265
+#: customizer/section/layout/header/set-identity.php:99
+#: customizer/section/layout/social-icon/social-icon.php:147
+#: customizer/section/woo/cart.php:80 customizer/section/woo/product.php:47
+#: customizer/section/woo/shop.php:50
+#: customizer/section/woo/single-product.php:165
+msgid "To know more go with this"
+msgstr "Чтобы узнать больше, перейдите сюда"
+
+#: customizer/register-panels-and-sections.php:10
+msgid "WordPress Default"
+msgstr "WordPress по умолчанию"
+
+#: customizer/register-panels-and-sections.php:378
+#: customizer/section/layout/footer/bottom-footer - Copy.php:139
+#: customizer/section/layout/footer/bottom-footer - Copy.php:223
+#: searchform.php:13
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgid "search.."
+msgstr "поиск.."
+
+#: header.php:63
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что здесь ничего найдено. Может попробовать поискать?"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Страница не найдена."
+
+#: 404.php:21
+msgid "404"
+msgstr "404"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themehunk.com"
+msgstr "https://www.themehunk.com"
+
+#. Author of the theme
+#: style.css lib/th-option/th-option.php:44
+#, gp-priority: low
+msgid "ThemeHunk"
+msgstr "ThemeHunk"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themehunk.com/product/open-shop-ecommerce-theme/"
+msgstr "https://themehunk.com/product/open-shop-ecommerce-theme/"
